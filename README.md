@@ -1,5 +1,5 @@
-# This is Learning Block.
+# This is a Learning Block.
 ### Focuing at Mastering HTML Language.
 
-This Repo will cover all of aspects of the HTML.
+This Repo will cover all aspects of the HTML.
 💫 Let's Start Now!
