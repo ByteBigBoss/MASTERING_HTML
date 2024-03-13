@@ -11,7 +11,7 @@
 - The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:
 
 ## Example
-<a href="https://www.w3schools.com">Visit W3Schools</a>
+### <a href="https://www.w3schools.com">Visit W3Schools</a>
 
 -----------------------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 - The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
 
 ## Example
-<img src="img_girl.jpg">
+### <img src="img_girl.jpg">
 
 There are two ways to specify the URL in the src attribute:
 
@@ -39,7 +39,7 @@ There are two ways to specify the URL in the src attribute:
 - The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels):
 
 ## Example
-<img src="img_girl.jpg" width="500" height="600">
+### `<img src="img_girl.jpg" width="500" height="600">`
 
 -----------------------------------------------------------------------------------------
 
@@ -87,3 +87,11 @@ The style attribute is used to add styles to an element, such as color, font, si
 </html>
 
 -----------------------------------------------------------------------------------------
+
+# The title Attribute
+
+- The title attribute defines some extra information about an element.
+- The value of the title attribute will be displayed as a tooltip when you mouse over the element:
+
+## Example
+`<p title="I'm a tooltip">This is a paragraph.</p>`
