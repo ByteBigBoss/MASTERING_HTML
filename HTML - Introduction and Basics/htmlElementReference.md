@@ -2,7 +2,7 @@
 HTML Tags Ordered Alphabetically
 
 ## Tag                                     Description
-### <!--...-->                             Defines a comment
+### `<!--...-->`                            Defines a comment
 ### `<!DOCTYPE>`                           Defines the document type
 ### `<a>`                                  Defines a hyperlink
 ### `<abbr>`                               Defines an abbreviation or an acronym
