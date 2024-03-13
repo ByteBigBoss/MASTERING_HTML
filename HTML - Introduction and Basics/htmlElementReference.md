@@ -6,9 +6,9 @@ HTML Tags Ordered Alphabetically
 ### `<!DOCTYPE>`                           Defines the document type
 ### `<a>`                                  Defines a hyperlink
 ### `<abbr>`                               Defines an abbreviation or an acronym
-### `<acronym>`                            Defines an acronym - Not supported in HTML5. Use <abbr> instead.
+### `<acronym>`                            Defines an acronym - Not supported in HTML5. Use `<abbr>` instead.
 ### `<address>`                            Defines contact information for the author/owner of a document
-### `<applet>`                             Defines an embedded applet - Not supported in HTML5. Use <embed> or <object> instead.
+### `<applet>`                             Defines an embedded applet - Not supported in HTML5. Use `<embed>` or `<object>` instead.
 ### `<area>`                               Defines an area inside an image map
 ### `<article>`                            Defines an article
 ### `<aside>`                              Defines content aside from the page content
@@ -28,7 +28,7 @@ HTML Tags Ordered Alphabetically
 ### `<center>`                             Defines centered text - Not supported in HTML5. Use CSS instead.
 ### `<cite>`                               Defines the title of a work
 ### `<code>`                               Defines a piece of computer code
-### `<col>`                                Specifies column properties for each column within a <colgroup> element 
+### `<col>`                                Specifies column properties for each column within a `<colgroup>` element 
 ### `<colgroup>`                           Specifies a group of one or more columns in a table for formatting
 ### `<data>`                               Adds a machine-readable translation of a given content
 ### `<datalist>`                           Specifies a list of pre-defined options for input controls
@@ -37,14 +37,14 @@ HTML Tags Ordered Alphabetically
 ### `<details>`                            Defines additional details that the user can view or hide
 ### `<dfn>`                                Specifies a term that is going to be defined within the content
 ### `<dialog>`                             Defines a dialog box or window
-### `<dir>`                                Defines a directory list - Not supported in HTML5. Use <ul> instead.
+### `<dir>`                                Defines a directory list - Not supported in HTML5. Use `<ul>` instead.
 ### `<div>`                                Defines a section in a document
 ### `<dl>`                                 Defines a description list
 ### `<dt>`                                 Defines a term/name in a description list
 ### `<em>`                                 Defines emphasized text  
 ### `<embed>`                              Defines a container for an external application
 ### `<fieldset>`                           Groups related elements in a form
-### `<figcaption>`                         Defines a caption for a <figure> element
+### `<figcaption>`                         Defines a caption for a `<figure>` element
 ### `<figure>`                             Specifies self-contained content
 ### `<font>`                               Defines font, color, and size for text - Not supported in HTML5. Use CSS instead.
 ### `<footer>`                             Defines a footer for a document or section
@@ -63,8 +63,8 @@ HTML Tags Ordered Alphabetically
 ### `<input>`                              Defines an input control
 ### `<ins>`                                Defines a text that has been inserted into a document
 ### `<kbd>`                                Defines keyboard input
-### `<label>`                              Defines a label for an <input> element
-### `<legend>`                             Defines a caption for a <fieldset> element
+### `<label>`                              Defines a label for an `<input>` element
+### `<legend>`                             Defines a caption for a `<fieldset>` element
 ### `<li>`                                 Defines a list item
 ### `<link>`                               Defines the relationship between a document and an external resource (most used to link to style sheets)
 ### `<main>`                               Specifies the main content of a document
@@ -97,13 +97,13 @@ HTML Tags Ordered Alphabetically
 ### `<section>`                            Defines a section in a document
 ### `<select>`                             Defines a drop-down list
 ### `<small>`                              Defines smaller text
-### `<source>`                             Defines multiple media resources for media elements (<video> and <audio>)
+### `<source>`                             Defines multiple media resources for media elements (`<video>` and `<audio>`)
 ### `<span>`                               Defines a section in a document
-### `<strike>`                             Defines strikethrough text - Not supported in HTML5. Use <del> or <s> instead.
+### `<strike>`                             Defines strikethrough text - Not supported in HTML5. Use `<del>` or `<s>` instead.
 ### `<strong>`                             Defines important text
 ### `<style>`                              Defines style information for a document
 ### `<sub>`                                Defines subscripted text
-### `<summary>`                            Defines a visible heading for a <details> element
+### `<summary>`                            Defines a visible heading for a `<details>` element
 ### `<sup>`                                Defines superscripted text
 ### `<svg>`                                Defines a container for SVG graphics
 ### `<table>`                              Defines a table
@@ -117,7 +117,7 @@ HTML Tags Ordered Alphabetically
 ### `<time>`                               Defines a specific time (or datetime)
 ### `<title>`                              Defines a title for the document
 ### `<tr>`                                 Defines a row in a table
-### `<track>`                              Defines text tracks for media elements (<video> and <audio>)
+### `<track>`                              Defines text tracks for media elements (`<video>` and `<audio>`)
 ### `<tt>`                                 Defines teletype text - Not supported in HTML5. Use CSS instead.
 ### `<u>`                                  Defines some text that is unarticulated and styled differently from normal text
 ### `<ul>`                                 Defines an unordered list
